@@ -12,7 +12,7 @@
         "icepick": "^2.3.1",
         "idx": "^2.5.5",
         "lodash": "^4.17.11",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "native-base": "^2.12.1",
         "querystring": "^0.2.0",
         "expo": "^32.0.0",
